@@ -1,8 +1,10 @@
 # Olá, me chamo Lincoln Anselmo 👋 seja bem vindo(a) ao meu cantinho!💻
- Desenvolver Front End. 
+### Desenvolver Front End. 
 
 ### Entusiasta na programação. 🤩
-- 🔭 I’m not currently working - 🌱 I’m currently learning: HTML, CSS, Javascript, React - 💬 Ask me about: Future, planning.
+- 🔭 I’m not currently working 
+- 🌱 I’m currently learning: HTML, CSS, Javascript, React 
+- 💬 Ask me about: Future and planning.
 
 ## Atualmente estou aprendendo
 
