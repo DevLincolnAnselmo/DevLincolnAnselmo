@@ -1,5 +1,5 @@
 # Olá, me chamo Lincoln Anselmo 👋 seja bem vindo(a) ao meu cantinho!💻
-### Desenvolver Front End. 
+### Desenvolvedor Front End. 
 
 ### Entusiasta na programação. 🤩
 - 🔭 I’m not currently working 
